@@ -140,6 +140,6 @@ Abra `notebooks/analise_rfm_ecommerce_brasil.ipynb` no VS Code ou Jupyter e exec
 **Lucas Coutinho Boros**
 Cientista de Dados em Formação | Python, SQL, Power BI
 
-- LinkedIn: [lucas-coutinho-boros](www.linkedin.com/in/datalucasboros)
+- LinkedIn: [lucas-coutinho-boros](https://www.linkedin.com/in/datalucasboros/)
 - GitHub: [Lucas-Coutinhob](https://github.com/Lucas-Coutinhob)
 - Email: lucas.boros@live.com
