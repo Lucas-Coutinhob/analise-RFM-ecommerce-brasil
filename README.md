@@ -1,4 +1,4 @@
-# Segmentação de Clientes com Análise RFM — E-Commerce Brasileiro 🇧🇷
+# Segmentação de Clientes com Análise RFM - E-Commerce Brasileiro 🇧🇷
 
 Pipeline completo de Data Science: **Merge de 5 tabelas** → **EDA** → **Segmentação por Quartis** → **K-Means** → **Recomendações de Marketing**
 
