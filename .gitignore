@@ -1,0 +1,15 @@
+# Dados (pesados demais para o GitHub)
+dados/*.csv
+
+# Cache Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Ambiente virtual
+rfm_ecommerce/
+.env/
+
+# OS
+.DS_Store
+Thumbs.db
